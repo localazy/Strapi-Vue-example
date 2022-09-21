@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_placeholders_placeholders",
+  "info": {
+    "displayName": "placeholders",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name_of_passenger": {
+      "type": "string"
+    },
+    "ticket_class": {
+      "type": "string"
+    },
+    "origin": {
+      "type": "string"
+    },
+    "destination": {
+      "type": "string"
+    },
+    "departure_date": {
+      "type": "string"
+    },
+    "number_of_travellers": {
+      "type": "string"
+    }
+  }
+}
